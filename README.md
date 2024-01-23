@@ -24,6 +24,12 @@ This is a simple batch script designed for the Windows Command Prompt. It execut
 
 10. `goto x`: A label that acts as a marker for the script to jump to. However, there is no corresponding `:x` label in the provided code.
 
+ ## EXECUTION OF BAT FILE
+
+![image](https://github.com/Pythonist-ux/SimpleVirus/assets/83156291/91bb5df6-3a91-4a86-9ae9-40c937f42499)
+
+
+
 ## Note
 This script is for educational purposes only and should not be used for malicious activities. Use it responsibly and in compliance with ethical standards.
 
